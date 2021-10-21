@@ -7,7 +7,7 @@
 
 body
 {
-    background-image: url('https://images-ext-1.discordapp.net/external/OeLIzYkR-Q_tfgf1w5-fULD3AokWG9Pi9rO8Lpd9JZ0/https/i.imgur.com/ijhR4bL.png');
+    background-image: url('https://www.wallpapertip.com/wmimgs/26-261031_hd-widescreen-arizona-green-tea-wallpaper-arizona-green.png');
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,7 +21,7 @@ body
 .btn
 {
     position: relative;
-    color: #9443ca;
+    color: #00ffc8;
     font-size: 16px;
     border-radius: 0.5rem;
     width: 12em;
@@ -38,7 +38,7 @@ body
     margin: 1em;
     float: left;
     text-decoration: none;
-    border: 2px solid #9443ca;
+    border: 2px solid #00ffc8;
 }
 
 span
@@ -46,7 +46,7 @@ span
     position: absolute;
     width: 25%;
     height: 100%;
-    background-color: #9443ca;
+    background-color: #00ffc8;
     border-radius: 50%;
     transition: 0.5s;
     transform: translateY(150%);
@@ -105,7 +105,7 @@ span
     font-size: 24px;
     font-family: sans-serif;
     text-transform: uppercase;
-    background: linear-gradient(to right, #7a3aa5 20%, #a144df 30%, #9443ca 70%, #7a3aa5 80%);
+    background: linear-gradient(to right, #00ffb3 20%, #00ffcc 30%, #00ffe5 70%, #00ffff 80%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -124,11 +124,11 @@ span
 {
     position: relative;
     padding: 0px 95px;
-    border: 1px solid #9443ca;
+    border: 1px solid #4affbd;
     margin: 10px;
     display: inline-block;
     text-decoration: none;
-    color: #9443ca;
+    color: #4affbd;
     letter-spacing: 2px;
     text-transform: uppercase;
     transition: 0.5s;
@@ -172,8 +172,8 @@ span
     list-style: none;
     width: 20px;
     height: 20px;
-    background: #9443ca17;
-    animation: animate 25s linear infinite;
+    background: #09edc7;
+    animation: animate 20s linear infinite;
     bottom: -150px;
     
 }
