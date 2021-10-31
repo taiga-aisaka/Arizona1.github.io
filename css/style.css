@@ -105,7 +105,7 @@ span
     font-size: 24px;
     font-family: sans-serif;
     text-transform: uppercase;
-    background: linear-gradient(to right, #fc0303 10%, #fc5e03 20%, #fcdb03 30%, #52fc03 40%, #03fc90 50%, #03fcf8 60%, #2403fc 70%, #7303fc 80%, #fc03e8 90%, #fc0324 100%,);
+    background: linear-gradient(to right, #7a3aa5 20%, #a144df 30%, #9443ca 70%, #7a3aa5 80%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
