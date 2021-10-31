@@ -7,7 +7,7 @@
 
 body
 {
-    background-image: url("https://www.myfreewalls.com/public/uploads/preview/4k-code-hacker-hacking-wallpaper-11624643657b8ofegkjd3.jpg");
+    background-image: url('https://www.myfreewalls.com/public/uploads/preview/4k-code-hacker-hacking-wallpaper-11624643657b8ofegkjd3.jpg');
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,7 +21,7 @@ body
 .btn
 {
     position: relative;
-    color: #5a00eb;
+    color: #9443ca;
     font-size: 16px;
     border-radius: 0.5rem;
     width: 12em;
@@ -38,7 +38,7 @@ body
     margin: 1em;
     float: left;
     text-decoration: none;
-    border: 2px solid #5a00eb;
+    border: 2px solid #9443ca;
 }
 
 span
@@ -46,7 +46,7 @@ span
     position: absolute;
     width: 25%;
     height: 100%;
-    background-color: #5a00eb;
+    background-color: #9443ca;
     border-radius: 50%;
     transition: 0.5s;
     transform: translateY(150%);
@@ -92,7 +92,7 @@ span
     position: relative;
     display: inline-block;
     text-decoration: none;
-    color: #8d0aff;
+    color: #9443ca;
     letter-spacing: 2px;
     text-transform: uppercase;
     transition: 0.5s;
@@ -105,7 +105,7 @@ span
     font-size: 24px;
     font-family: sans-serif;
     text-transform: uppercase;
-    background: linear-gradient(to right, #ff0a0a 10%, #e7ff0a 20%, #0aff27 30%, #0ae7ff 40%#, #0a23ff 50%, #990aff 60%# ,#ff0ada 70% ,#ff0a85 80% ,#ff0a0a 90%,);
+    background: linear-gradient(to right, #7a3aa5 20%, #a144df 30%, #9443ca 70%, #7a3aa5 80%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -124,11 +124,11 @@ span
 {
     position: relative;
     padding: 0px 95px;
-    border: 1px solid #dd00ff;
+    border: 1px solid #9443ca;
     margin: 10px;
     display: inline-block;
     text-decoration: none;
-    color: #c102de;
+    color: #9443ca;
     letter-spacing: 2px;
     text-transform: uppercase;
     transition: 0.5s;
@@ -172,8 +172,8 @@ span
     list-style: none;
     width: 20px;
     height: 20px;
-    background: #7002ed;
-    animation: animate 20s linear infinite;
+    background: #9443ca17;
+    animation: animate 25s linear infinite;
     bottom: -150px;
     
 }
