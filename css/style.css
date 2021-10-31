@@ -21,7 +21,7 @@ body
 .btn
 {
     position: relative;
-    color: #00ffc8;
+    color: #5a00eb;
     font-size: 16px;
     border-radius: 0.5rem;
     width: 12em;
@@ -38,7 +38,7 @@ body
     margin: 1em;
     float: left;
     text-decoration: none;
-    border: 2px solid #00ffc8;
+    border: 2px solid #5a00eb;
 }
 
 span
@@ -46,7 +46,7 @@ span
     position: absolute;
     width: 25%;
     height: 100%;
-    background-color: #00ffc8;
+    background-color: #5a00eb;
     border-radius: 50%;
     transition: 0.5s;
     transform: translateY(150%);
