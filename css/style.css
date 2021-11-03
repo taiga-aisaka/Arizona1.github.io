@@ -111,7 +111,7 @@ span
     -webkit-text-fill-color: transparent;
     text-fill-color: transparent;
     background-size: 200% auto;
-    animation: textShine 10s ease-in-out infinite;
+    animation: textShine 100s ease-in-out infinite;
 }
     
 @keyframes textShine {
